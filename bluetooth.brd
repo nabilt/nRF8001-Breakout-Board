@@ -19,7 +19,7 @@
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
@@ -120,6 +120,10 @@
 <text x="21.3151875" y="3.600003125" size="1.016" layer="25">VDD</text>
 <text x="23.9952125" y="6.200003125" size="1.016" layer="26" rot="MR0">GND</text>
 <text x="20.7999875" y="2.1692" size="1.016" layer="26" rot="MR180">3.3V</text>
+<text x="26.5176" y="8.2296" size="1.27" layer="26" rot="MR0">Creative Commons</text>
+<text x="26.5176" y="11.5824" size="1.27" layer="26" rot="MR0">Attribution-ShareAlike 3.0</text>
+<text x="26.5176" y="10.0584" size="1.27" layer="26" rot="MR0">Unported License</text>
+<text x="16.9164" y="0.3048" size="1.016" layer="26" rot="MR0">www.nabiltewolde.com</text>
 </plain>
 <libraries>
 <library name="FitnessDevice">

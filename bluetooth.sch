@@ -2644,6 +2644,7 @@ Standard 10-pin 0.1" header. Use with straight break away headers (SKU : PRT-001
 <sheets>
 <sheet>
 <plain>
+<text x="-15.24" y="-22.86" size="1.778" layer="95">nRF8001 Breakout Board by Nabil Tewolde is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.</text>
 </plain>
 <instances>
 <instance part="U1" gate="G$1" x="91.44" y="38.1"/>
