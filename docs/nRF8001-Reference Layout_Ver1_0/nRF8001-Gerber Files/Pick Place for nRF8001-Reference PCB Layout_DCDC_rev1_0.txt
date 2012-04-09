@@ -1,0 +1,26 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+L4         0603s                416.3mil      274.6mil      389.3mil      274.6mil      389.3mil      274.6mil  T        360.00 10µH           
+L5         0402s                488.3mil      249.6mil      488.3mil      274.6mil      488.3mil      274.6mil  T        270.00 15nH           
+C7         0603s                488.3mil      149.6mil      488.3mil      122.6mil      488.3mil      122.6mil  T         90.00 1µF            
+X2         FC-135             636.135mil        328mil    636.135mil        328mil    636.135mil    377.212mil  T        270.00 32.768kHz      
+X1         BT-XTAL_3225           348mil        114mil        348mil        114mil    383.059mil     66.992mil  T         90.00 16MHz          
+U1         Nordic_QFN50P500X500X90-33N    320.505mil      414.6mil    320.505mil      414.6mil    416.962mil    345.702mil  T        180.00 nRF8001        
+C10        0402s              501.135mil      371.6mil    526.135mil      371.6mil    526.135mil      371.6mil  T        180.00 100nF          
+C14        0402s              640.135mil      233.6mil    615.135mil      233.6mil    615.135mil      233.6mil  T        360.00 15pF           
+C13        0402s              641.135mil      421.6mil    666.135mil      421.6mil    666.135mil      421.6mil  T        180.00 15pF           
+C12        0402s              455.505mil      516.6mil    455.505mil      491.6mil    455.505mil      491.6mil  T         90.00 100nF          
+R1         0402s              245.135mil    248.234mil    245.135mil    273.234mil    245.135mil    273.234mil  T        270.00 22k            
+L3         0402s              170.505mil      304.6mil    170.505mil      329.6mil    170.505mil      329.6mil  T        270.00 3.9nH          
+L2         0402s              135.505mil      449.6mil    135.505mil      474.6mil    135.505mil      474.6mil  T        270.00 5.6nH          
+L1         0402s              170.505mil      394.6mil    170.505mil      419.6mil    170.505mil      419.6mil  T        270.00 8.2nH          
+C6         0402s              170.505mil      124.6mil    170.505mil      149.6mil    170.505mil      149.6mil  T        270.00 1.2pF          
+C5         0402s              170.505mil      214.6mil    170.505mil      189.6mil    170.505mil      189.6mil  T         90.00 1.8pF          
+C8         0402s              283.135mil      247.6mil    283.135mil      272.6mil    283.135mil      272.6mil  T        270.00 1.0nF          
+C9         0603s              503.997mil      331.6mil    530.997mil      331.6mil    530.997mil      331.6mil  T        180.00 1µF            
+C11        0402s              501.135mil      405.6mil    526.135mil      405.6mil    526.135mil      405.6mil  T        180.00 33nF           
+C4         0402s              120.505mil      539.6mil    120.505mil      564.6mil    120.505mil      564.6mil  T        270.00 N/C            
+C3         0402s              155.505mil      539.6mil    155.505mil      564.6mil    155.505mil      564.6mil  T        270.00 2.2nF          
+C2         0402s              267.028mil    114.348mil    267.028mil     89.348mil    267.028mil     89.348mil  T         90.00 15pF           
+C1         0402s              428.028mil    113.348mil    428.028mil    138.348mil    428.028mil    138.348mil  T        270.00 15pF           
+
