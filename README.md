@@ -6,18 +6,18 @@ nRF8001-Breakout-Board
 * Website:   <http://www.nabiltewolde.com>
 * GitHub:    <https://github.com/nabilt/nRF8001-Breakout-Board>
 
-This hardware project is the reference schematic for the [nRF8001] Bluetooth Low Energy chip redone in Eagle. It is currently untested. The goal of this project is to develop a low power, cheap, cross-platform wireless module for wireless projects. I plan to include open firmware and demos for iOS and Android.
+This hardware project is the reference schematic for the [nRF8001] Bluetooth Low Energy chip redone in Eagle. It is currently untested. The goal of this project is to develop a low power, cheap, cross-platform wireless module for wireless projects. I plan to include open firmware and demos for iOS and Android. Checkout my [blog post] for more info.
 
 [nRF8001]: http://www.nordicsemi.com/eng/Products/Bluetooth-R-low-energy/nRF8001
-
-Why nRF8001 and not another Bluetooth 4 chips?
+[blog post]: http://www.nabiltewolde.com/2012/04/open-source-bluetooth-4-breakout-board.html
+Why nRF8001 and not another [Bluetooth 4 chip]?
 
 * Publicly available datasheet
-* Simple circuitry, no integrated uC for e.g.
+* Simple circuitry, few passives and no integrated uC
 * Cheap, $4.98 CAD on [Mouser]
 * Small, currently the board is 1’’ x 0.9’’
 
-[Bluetooth 4 chips]: http://developer.bluetooth.org/DevelopmentResources/DevelopmentPlatforms/Pages/Development-Platforms.aspx
+[Bluetooth 4 chip]: http://developer.bluetooth.org/DevelopmentResources/DevelopmentPlatforms/Pages/Development-Platforms.aspx
 [Mouser]: http://ca.mouser.com/ProductDetail/Nordic-Semiconductor/nRF8001-R2Q32-T/?qs=yd0qOhnSiDfAxQAlSXMVEQ%3d%3d
 
 Interesting Bluetooth 4 facts:
