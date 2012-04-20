@@ -200,8 +200,8 @@
 </package>
 <package name="CRYSTAL-ABS10">
 <description>Crystals 32.768KHz 9pF - ABS10-32.768KHZ-9-T</description>
-<smd name="P$1" x="-1.45" y="0" dx="1.3" dy="2.2" layer="1"/>
-<smd name="P$2" x="1.45" y="0" dx="1.3" dy="2.2" layer="1"/>
+<smd name="P$1" x="-1.85" y="0" dx="1.3" dy="2.2" layer="1"/>
+<smd name="P$2" x="1.85" y="0" dx="1.3" dy="2.2" layer="1"/>
 <wire x1="-2.45" y1="0.9" x2="-2.45" y2="-0.9" width="0.127" layer="21"/>
 <wire x1="-2.45" y1="-0.9" x2="2.45" y2="-0.9" width="0.127" layer="21"/>
 <wire x1="2.45" y1="-0.9" x2="2.45" y2="0.9" width="0.127" layer="21"/>
