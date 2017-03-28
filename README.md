@@ -9,7 +9,7 @@ nRF8001-Breakout-Board
 This hardware project is the reference schematic for the [nRF8001] Bluetooth Low Energy chip redone in Eagle. It is currently untested. The goal of this project is to develop a low power, cheap, cross-platform wireless module for wireless projects. I plan to include open firmware and demos for iOS and Android. Checkout my [blog post] for more info.
 
 [nRF8001]: http://www.nordicsemi.com/eng/Products/Bluetooth-R-low-energy/nRF8001
-[blog post]: http://www.nabiltewolde.com/2012/04/open-source-bluetooth-4-breakout-board.html
+[blog post]: https://nabil.me/2012/04/09/open-source-bluetooth-4-breakout-board-means-no-more-mi-fi/
 Why nRF8001 and not another [Bluetooth 4 chip]?
 
 * Publicly available datasheet
